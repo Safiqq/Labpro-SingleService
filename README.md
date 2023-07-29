@@ -1,5 +1,6 @@
 # Single-Service API
 Nama: Syafiq Ziyadul Arifin
+
 NIM: 18221048
 
 ## How to Use
@@ -10,7 +11,7 @@ Additional:
 * sudo docker rm --force <id>
 * sudo docker logs <id>
 
-## Design Pattern
+## Design Patterns
 1. Model-View-Controller (MVC)
     
     Design pattern ini memisahkan peran dan tugas di dalam aplikasi agar lebih rapi dan mudah dimengerti. Misalnya, bagian yang mengurus data, bagian yang menampilkan tampilan, dan bagian yang mengatur logika penggunaan data dan tampilan.
